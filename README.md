@@ -24,4 +24,4 @@ Agile System
 Business Objects/Crystal Reports BI System
 Hadoop-Hive
 
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reach25aish&show_icons=true&theme=radical)
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reach25aish&show_icons=true&theme=cobalt)
