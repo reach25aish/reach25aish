@@ -1,5 +1,6 @@
  Hi, There
-I am Aishwarya ,passionate learner having experience and worked in different roles as Data Analyst , Database Engineer.
+ 
+ I am Aishwarya ,passionate learner having experience in different roles as Data Analyst , Database Engineer.
 
 💥About me
 
@@ -12,11 +13,11 @@ Ability to quickly learn technologies.
 
 Languages and Tools:
 
-SQL &PL/SQL (SQL server, Teradata, MYSQL & Oracle)
+SQL & PL/SQL (SQL server, Teradata, MYSQL & Oracle)
 Unix Shell scripting
 Tableau
 Service Now
-PHP/Python Programming
+PHP/Python Programming (Beginner)
 Business Intelligence System
 Agile System
 Business Objects/Crystal Reports BI System
