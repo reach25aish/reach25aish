@@ -11,7 +11,7 @@ Excellent communication/inter personal skills.
 Ability to quickly learn new technologies.
 
 
-Languages and Tools:
+Skills:
 
 SQL & PL/SQL (SQL server, Teradata, MYSQL & Oracle)
 Unix Shell scripting
