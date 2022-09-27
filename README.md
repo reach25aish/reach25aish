@@ -8,7 +8,7 @@ Experienced IT professional and has 14+ years experience in Information Technolo
 Ability to work both independently and manage a team. 
 Versatile team player with strong analytical and problem solving skills. 
 Excellent communication/inter personal skills.
-Ability to quickly learn technologies.
+Ability to quickly learn new technologies.
 
 
 Languages and Tools:
@@ -17,7 +17,7 @@ SQL & PL/SQL (SQL server, Teradata, MYSQL & Oracle)
 Unix Shell scripting
 Tableau
 Service Now
-PHP/Python Programming (Beginner)
+PHP/Python Programming 
 Business Intelligence System
 Agile System
 Business Objects/Crystal Reports BI System
