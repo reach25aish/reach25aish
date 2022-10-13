@@ -1,6 +1,6 @@
  Hi, There
  
- I am Aishwarya ,passionate learner having experience in different roles as Data Analyst , Database Engineer.
+ I am Aishwarya ,passionate learner having predominant experience in different roles as Data Analyst , Database Engineer.
 
 💥About me
 
