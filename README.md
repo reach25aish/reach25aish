@@ -4,7 +4,7 @@
 
 💥About me
 
-Experienced IT professional and has 14+ years experience in Information Technology.
+Experienced IT professional and has 16+ years experience in Information Technology.
 Ability to work both independently and manage a team. 
 Versatile team player with strong analytical and problem solving skills. 
 Excellent communication/inter personal skills.
@@ -13,7 +13,7 @@ Ability to quickly learn new technologies.
 
 Skills:
 
-SQL & PL/SQL (SQL server, Teradata, MYSQL & Oracle)
+SQL & PL/SQL (SQL server, Teradata, MYSQL & Oracle,SSIS )
 Unix Shell scripting
 Tableau
 Service Now
