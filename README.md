@@ -27,4 +27,4 @@ Hadoop-Hive
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reach25aish&theme=prussian&show_icons=true&hide=contribs,prs,issues&count_private=true)
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+Reach me on LinkedIn (https://www.linkedin.com/in/airajagopalan/)
