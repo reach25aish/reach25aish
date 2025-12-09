@@ -11,7 +11,7 @@ Excellent communication/inter personal skills.
 Ability to quickly learn new technologies.
 [Current achievements](https://www.coursera.org/account/accomplishments/professional-cert/QS9J7VXE5VZX)
 
-Skills:
+💥Skills
 
 SQL & PL/SQL (SQL server, Teradata, MYSQL & Oracle,SSIS )
 Unix Shell scripting
@@ -24,7 +24,5 @@ Business Objects/Crystal Reports BI System
 Hadoop-Hive
 
 
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reach25aish&theme=prussian&show_icons=true&hide=contribs,prs,issues&count_private=true)
+💥Please reach me  on [Linked In](www.linkedin.com/in/airajagopalan)
 
-
-Reach me on LinkedIn (https://www.linkedin.com/in/airajagopalan/)
