@@ -9,7 +9,7 @@ Ability to work both independently and manage a team.
 Versatile team player with strong analytical and problem solving skills. 
 Excellent communication/inter personal skills.
 Ability to quickly learn new technologies.
-[Current achievements](https://www.coursera.org/user/cfe8a090a7fab3c4d1a0f4f68849366f)
+[Current achievements](https://www.coursera.org/account/accomplishments/professional-cert/QS9J7VXE5VZX)
 
 Skills:
 
