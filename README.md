@@ -13,8 +13,8 @@ Throughout my career at leading organizations such as Sutter Health, eBay Inc., 
 	•	Data Engineering & Automation: I have extensive experience designing scalable ETL pipelines and data warehousing solutions using SQL, SSIS, Python, and PHP to ensure data integrity and process efficiency.
 	•	Cross-Functional Collaboration: I am adept at leading cross-functional teams in fast-paced environments, ensuring 100% data alignment and high-impact project delivery.
 
-I am a Certified Google Data Analytics Professional and have been recognized with multiple Spot Awards for my ability to drive record-breaking operational results through data-driven strategies.
-<img width="468" height="405" alt="image" src="https://github.com/user-attachments/assets/af5d9425-3646-4b6e-a013-38c456c00d47" />
+I am a Certified Google Data Analytics Professional and have been recognized with multiple Spot Awards for my ability to drive record-breaking operational 
+results through data-driven strategies.
 
 [Current achievements](https://www.coursera.org/account/accomplishments/professional-cert/QS9J7VXE5VZX)
 
